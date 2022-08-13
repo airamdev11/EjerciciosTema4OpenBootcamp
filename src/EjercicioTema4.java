@@ -21,13 +21,13 @@ public class EjercicioTema4 {
         //Segunda parte
         int numeroWhile = 0;
         while(numeroWhile < 3){
-            numeroWhile++;
             System.out.println(numeroWhile);
+            numeroWhile++;
         }
 
         do{
-            numeroWhile++;
             System.out.println(numeroWhile);
+            numeroWhile++;
         }while(numeroWhile<3);
 
         //Tercera parte
