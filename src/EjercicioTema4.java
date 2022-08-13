@@ -31,7 +31,7 @@ public class EjercicioTema4 {
         }while(numeroWhile<3);
 
         //Tercera parte
-        for(int numeroFor = 0; numeroFor<=3; ++numeroFor){
+        for(int numeroFor = 0; numeroFor<=3; numeroFor++){
             System.out.println(numeroFor);
         }
 
